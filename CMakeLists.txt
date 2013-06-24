@@ -22,7 +22,7 @@ cmake_minimum_required(VERSION 2.6)
 
 set(PKGNAME glite-wms-utils-exception)
 set(PKGVER 3.4.2)
-set(PKGREL 1)
+set(PKGREL 2)
 
 set(ITEMS_FOR_SOURCE CMakeLists.txt interface src)
 
